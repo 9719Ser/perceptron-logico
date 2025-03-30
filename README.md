@@ -86,5 +86,24 @@ Durante el desarrollo de este proyecto me he enfrentado a:
 - **Diseñar un formulario interactivo con Django** que se conectara correctamente con la lógica del backend y los modelos entrenados en tiempo real.
 
 
+## Demo en video
+
+[![Ver demo en YouTube](https://img.youtube.com/vi/SbR4ohGS8q4/0.jpg)](https://youtu.be/SbR4ohGS8q4)
+
+> Haz clic para ver el funcionamiento completo de la app.
+
+
+## Capturas de pantalla
+
+### 1. Visualización 3D de la neurona
+![3D Neurona](perceptron/static/perceptron/captura1.png)
+
+### 2. Formulario de compuerta lógica 
+![Formulario](perceptron/static/perceptron/captura2.png)
+
+### 3. Resultado de la predicción 
+![Resultado](perceptron/static/perceptron/captura3.png)
+
+
 
 
